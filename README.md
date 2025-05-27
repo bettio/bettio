@@ -16,4 +16,5 @@ in Elixir.
 - ⛰️Outside of coding, I enjoy making sourdough pizza and bread, plus hiking whenever I can.
 - 🐈 Also, I have a soft spot for [pallas cats](https://uninstall.it/manuls.html).
 
-**Next talk**: Catch me at [ElixirConf EU 2025](https://www.elixirconf.eu/keynotes/the-atomvm-and-new-horizons-for-elixir/)!
+My [ElixirConf EU 2025](https://www.elixirconf.eu/keynotes/the-atomvm-and-new-horizons-for-elixir/) slides are [here](https://uninstall.it/talks.html).
+<!--**Next talk**: Catch me at [ElixirConf EU 2025](https://www.elixirconf.eu/keynotes/the-atomvm-and-new-horizons-for-elixir/)!-->
