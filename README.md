@@ -17,4 +17,6 @@ in Elixir.
 - ⛰️ Outside of coding, I enjoy making sourdough pizza and bread, plus hiking whenever I can.
 - 🐈 Also, I have a soft spot for [pallas cats](https://uninstall.it/manuls.html).
 
-[FLOSS Weekly Episode 838 on AtomVM](https://hackaday.com/2025/06/25/floss-weekly-episode-838-atomvm-and-the-full-stack-elixir-developer/) | My [ElixirConf EU 2025](https://www.elixirconf.eu/keynotes/the-atomvm-and-new-horizons-for-elixir/) slides are [here](https://uninstall.it/talks.html) | My [Code BEAM Europe 2025](https://codebeameurope.com/talks/unlocking-the-power-of-beam-on-tiny-microcontrollers-and-beyond/) slides are [here](https://uninstall.it/talks.html).
+I’ll be speaking at [Code BEAM Lite Stockholm](https://codebeamstockholm.com/talks/Low-Power-wireless-Sensors-with-AtomVM/) about low-power wireless sensors with AtomVM - come say hi if you’ll be there!
+
+[FLOSS Weekly Episode 838 on AtomVM](https://hackaday.com/2025/06/25/floss-weekly-episode-838-atomvm-and-the-full-stack-elixir-developer/) | My [ElixirConf EU 2026](https://www.elixirconf.eu/talks/atomic-scale-elixir/) slides are [here](https://uninstall.it/talks.html) | My [Code BEAM Europe 2025](https://codebeameurope.com/talks/unlocking-the-power-of-beam-on-tiny-microcontrollers-and-beyond/) slides are [here](https://uninstall.it/talks.html).
