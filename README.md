@@ -17,6 +17,6 @@ in Elixir.
 - ⛰️ Outside of coding, I enjoy making sourdough pizza and bread, plus hiking whenever I can.
 - 🐈 Also, I have a soft spot for [pallas cats](https://uninstall.it/manuls.html).
 
-I’ll be speaking at [Code BEAM Lite Stockholm](https://codebeamstockholm.com/talks/Low-Power-wireless-Sensors-with-AtomVM/) about low-power wireless sensors with AtomVM - come say hi if you’ll be there!
+I'll be speaking at [Code BEAM Europe 2026](https://codebeameurope.com/) about [what's new in AtomVM](https://codebeameurope.com/talks/updates-from-the-atomvm-landscape/). Come say hi if you'll be there!
 
-[FLOSS Weekly Episode 838 on AtomVM](https://hackaday.com/2025/06/25/floss-weekly-episode-838-atomvm-and-the-full-stack-elixir-developer/) | My [ElixirConf EU 2026](https://www.elixirconf.eu/talks/atomic-scale-elixir/) slides are [here](https://uninstall.it/talks.html) | My [Code BEAM Europe 2025](https://codebeameurope.com/talks/unlocking-the-power-of-beam-on-tiny-microcontrollers-and-beyond/) slides are [here](https://uninstall.it/talks.html).
+[BEAM There, Done That episode on AtomVM](https://podcasts.apple.com/us/podcast/erlang-on-a-microcontroller-davide-bettio-paul/id1880642413?i=1000784801776) | [FLOSS Weekly Episode 838 on AtomVM](https://hackaday.com/2025/06/25/floss-weekly-episode-838-atomvm-and-the-full-stack-elixir-developer/) | My [Goatmire 2026 talk](https://2026.goatmire.com/talk/atomvm-when-constrained-doesnt-mean-boring) and [workshop materials](https://uninstall.it/goatmire-2026-workshop.html) | [Goatmire recap on Medium](https://medium.com/@Bettio/goatmire-badges-and-the-atomvm-developer-experience-3b7af2a17347) | [More talks and slides](https://uninstall.it/talks.html).
